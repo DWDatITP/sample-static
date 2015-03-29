@@ -12,8 +12,8 @@ This app uses:
 
 ## To run this app locally:
 
-  * `git clone X`
-  * `cd itp-static`
+  * `git clone https://github.com/DWDatITP/sample-static.git`
+  * `cd sample-static`
   * `npm install`
   * `nodemon server.js` (or `node server.js`)
   * visit <http://localhost:5000>
