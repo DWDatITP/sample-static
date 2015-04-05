@@ -9,6 +9,7 @@
   "author": "Cory Forsyth <cory.forsyth@gmail.com> (http://coryforsyth.com/)",
   "license": "MIT",
   "dependencies": {
+    "cors": "^2.5.3",
     "express": "^4.12.3"
   }
 }
